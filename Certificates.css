@@ -1,0 +1,82 @@
+#set1{
+    border: 1px solid blue;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px gray;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#legend{
+    border: 1px solid black;
+    background-color: #BEADFA;
+    border-radius: 5px;
+    height: 30px;
+    box-shadow: 2px 2px 5px gray;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+body{
+    background-image: url(stunning_macbook_space_horsehead_nebula_hd_macbook-2560x1440.jpg);
+    margin-left: 0px;
+    margin-right: 0px;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    backface-visibility: hidden;
+    }
+    #click1{
+        border: 1px #6528F7 solid;
+        border-radius: 5px;
+        font-size: 20px;
+        margin-left: 83%;
+        margin-right: 30px;
+        margin-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 25px;
+        background-color: #C3EDC0;
+    }
+    #click1:hover{
+        background-color: #9CFF2E;
+        box-shadow: 3px 3px 7px rgba(247, 245, 245, 0.923);
+    
+    }
+    a{
+        text-decoration: none;
+    }
+    #click2{
+        border: 1px #6528F7 solid;
+        border-radius: 5px;
+        font-size: 20px;
+        margin-right: 87%;
+        margin-top: -25px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 25px;
+        background-color: #C3EDC0;
+    }
+    #click2:hover{
+        background-color: #9CFF2E;
+        box-shadow: 3px 3px 7px rgba(247, 245, 245, 0.923);
+    
+    }
+    #Home{
+        border: 1px #6528F7 solid;
+        border-radius: 100%;
+        margin-left: 480px;
+        width: 70px;
+        height: 40px;
+        background-color:#BEADFA ;
+        padding-left: 20px;
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    #Home:hover{
+        background-color: #9CFF2E;
+        box-shadow: 3px 3px 7px rgba(247, 245, 245, 0.923);
+    }

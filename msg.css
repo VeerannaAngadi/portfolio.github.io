@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    animation-name: ani;
+    animation-duration: 3s;
+    position: absolute;
+    animation-iteration-count: infinite;
+    background-color: antiquewhite;
+}
+@keyframes ani{
+    0%{
+        background-color: #78C1F3;
+    }
+    25%{
+        background-color: #9BE8D8;
+    }
+    50%{
+        background-color: #E2F6CA;
+    }
+    75%{
+        background-color: #F8FDCF;
+    }
+    100%{
+        background-color: antiquewhite;
+    }
+
+}

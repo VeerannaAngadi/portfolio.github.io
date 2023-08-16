@@ -1,0 +1,53 @@
+#logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: #001C30; 
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+.clicks{
+    border: 1.5px solid black;
+    background-color: #EAC696;
+    font-size: 18px; 
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 2px 2px 5px rgba(229, 230, 229, 0.854);
+}
+a:hover{
+    background-color: #9CFF2E;
+}
+#img{
+    box-shadow: 2px 2px 5px rgba(229, 230, 229, 0.854);
+    margin-left: 70px;
+}
+#div1{
+    border: 1px solid #6528F7;
+    background-color: #dddddd;
+    border-radius: 5px;
+    box-shadow: 3px 3px 6px rgba(0, 0,0, 0.5);
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+}
+#click2{
+    border: 1px #6528F7 solid;
+    border-radius: 5px;
+    margin-left: 470px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    background-color: #C3EDC0;
+}
+#click2:hover{
+    background-color: #9CFF2E;
+    box-shadow: 3px 3px 7px rgba(0,0,0,0.5);
+}
